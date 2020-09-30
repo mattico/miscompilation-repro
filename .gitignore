@@ -1,0 +1,16 @@
+**/*.rs.bk
+.#*
+.gdb_history
+target/
+
+# editor files
+debug.log
+.vscode/*
+!.vscode/*.md
+!.vscode/*.svd
+!.vscode/launch.json
+!.vscode/tasks.json
+!.vscode/extensions.json
+!.vscode/stm32h7-itm-fix.cfg
+!.vscode/c_cpp_properties.json
+!.vscode/openocd.gdb
